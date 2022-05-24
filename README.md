@@ -4,9 +4,10 @@
 
 <br />
 
-Hi, 
-I am a passionate full-stack developer working with React and Vue for frontend, and Laravel and Node for backend mainly.
-As I work as a full-stack developer, I like to dream up entire logic for various requirements and make them be realistic with awesome interfaces. I mainly take my efforts to get experience in many fields of web technologies and implement high quality codes.
+Hello
+I am a Full Stack developer, who has 7 years of strong experience developing. Over the last 3 years, mainly focusing on blockchain technology. As a Full stack developer, have enough experience developing with React, Angular, Node, Vue, TypeScript, Python, JavaScript, PHP, HTML/CSS, Wordpress, Yii2, Laravel, MongoDB, MySQL etc.
+Even also have experience developing Smart Contract with Solidity, Solana, Rust, Web3, Solana-web3. And have experience developing Front and Back-end for 6+ years and proficient in Git.
+Recently, I am working as a Front-end developer for integration the Website with Smart Contract. And I have been developing lots of programming languages, frameworks, libraries, platforms.
 
 **Major Stack:**  
 <code><img height="20" src="https://github.com/black-wyvern-dev/black-wyvern-dev/blob/main/images/laravel.png"></code>
