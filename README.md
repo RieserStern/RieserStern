@@ -3,9 +3,12 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=black-wyvern-dev.black-wyvern-dev)
 
 <br />
+
 I am a Full Stack developer, who has 7 years of strong experience developing. Over the last 3 years, mainly focusing on blockchain technology. As a Full stack developer, have enough experience developing with React, Angular, Node, Vue, TypeScript, Python, JavaScript, PHP, HTML/CSS, Wordpress, Yii2, Laravel, MongoDB, MySQL etc.
 Even also have experience developing Smart Contract with Solidity, Solana, Rust, Web3, Solana-web3. And have experience developing Front and Back-end for 6+ years and proficient in Git.
 Recently, I am working as a Front-end developer for integration the Website with Smart Contract. And I have been developing lots of programming languages, frameworks, libraries, platforms.
+
+<br />
 
 **Major Stack:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
