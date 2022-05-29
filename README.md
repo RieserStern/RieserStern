@@ -45,12 +45,7 @@
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 
-
-
-
 ##
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RieserStern&theme=dracula&layout=compact)
 
 📈 My GitHub Stats
 <p>
