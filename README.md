@@ -50,6 +50,7 @@
 
 ##
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roziscoding&theme=dracula&layout=compact)
 
 📈 My GitHub Stats
 <p>
