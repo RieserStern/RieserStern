@@ -1,9 +1,7 @@
 
-### Hello there
 ![](https://visitor-badge.glitch.me/badge?page_id=RieserStern)
 
 ## Main Skill
-
 
 ![](https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3bac3a)
