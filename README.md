@@ -22,13 +22,6 @@
 ![](https://img.shields.io/badge/Database-Sqlite-informational?style=flat&logo=sqlite&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=3bac3a)
 
-##
-
-📈 My GitHub Stats
-<p>
-<img align="" height="150px" src="https://github-readme-stats.vercel.app/api?username=rieserstern&show_icons=true&hide_border=true&theme=dark&hide_title=true" >
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RieserStern&theme=dracula&layout=compact">
-</p>
 
 
 
